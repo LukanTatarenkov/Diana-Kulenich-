@@ -5,7 +5,7 @@ from aiogram.types import Message
 from aiogram.filters import CommandStart
 
 # Сюди вставляємо свій токен з BotFather
-API_TOKEN = "ВАШ_ТОКЕН_ТУТ"
+API_TOKEN = "8461292129:AAEr5MgB3X8TkadpM5MfBW1291UYlrPdric"
 
 # Створюємо бота і диспетчер
 bot = Bot(token=API_TOKEN)
